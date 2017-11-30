@@ -1,0 +1,13 @@
+table{
+	border: 1px solid red;
+	width: 100%;
+	text-align: center;
+}
+
+#navmenulinks{
+	color: white;
+}
+
+td{
+	font-size: 8pt;
+}
